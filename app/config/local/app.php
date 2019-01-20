@@ -15,5 +15,7 @@ return array(
 
 	'debug' => true,
 		'url' => 'http://l4.school.test',
-
+		'providers' => append_config(array(
+			'Way\Generators\GeneratorsServiceProvider'
+		))
 );

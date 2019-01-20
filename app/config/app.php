@@ -13,7 +13,7 @@ return array(
     |
     */
 
-    'debug' => false,
+    'debug' => true,
 
     /*
     |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ return array(
     |
     */
 
-    'url' => 'http://school.hrshadhin.me',
+    'url' => 'http://marksms.heroku.com',
 
     /*
     |--------------------------------------------------------------------------
@@ -122,7 +122,7 @@ return array(
         'Illuminate\View\ViewServiceProvider',
         'Illuminate\Workbench\WorkbenchServiceProvider',
         'Way\Generators\GeneratorsServiceProvider',
-    'Maatwebsite\Excel\ExcelServiceProvider',
+        'Maatwebsite\Excel\ExcelServiceProvider',
         'Barryvdh\DomPDF\ServiceProvider',
         'Davelip\Queue\DatabaseServiceProvider',
         'SMS\Composers\ComposerServiceProvider',

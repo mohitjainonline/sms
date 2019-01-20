@@ -23,9 +23,9 @@ return array(
         'mysql' => array(
             'driver'    => 'mysql',
             'host'      => 'localhost',
-            'database'  => 'c_school_main',
+            'database'  => 'School',
             'username'  => 'root',
-            'password'  => 'toor',
+            'password'  => 'Secure@123',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',

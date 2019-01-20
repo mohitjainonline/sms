@@ -22,10 +22,10 @@ return array(
 
         'mysql' => array(
             'driver'    => 'mysql',
-            'host'      => 'localhost',
-            'database'  => 'School',
-            'username'  => 'root',
-            'password'  => 'Secure@123',
+            'host'      => 'am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+            'database'  => 'dnuwc8quwh9tx9at',
+            'username'  => 'g8iq0e31jgwbpe8d',
+            'password'  => 'lijlt7uugjc16ss0',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',

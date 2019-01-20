@@ -33,13 +33,13 @@
 	},
 	"scripts": {
 		"post-install-cmd": [
-			"chmod -R 777 public/"
+			"chmod -R 777 ."
 		],
 		"post-update-cmd": [
-			"chmod -R 777 public/"
+			"chmod -R 777 ."
 		],
 		"post-create-project-cmd": [
-			"chmod -R 777 public/"
+			"chmod -R 777 ."
 		]
 	},
 	"config": {

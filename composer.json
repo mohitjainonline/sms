@@ -32,7 +32,15 @@
 		]
 	},
 	"scripts": {
-		
+		"post-install-cmd": [
+			"chmod -R 777 public/"
+		],
+		"post-update-cmd": [
+			"chmod -R 777 public/"
+		],
+		"post-create-project-cmd": [
+			"chmod -R 777 public/"
+		]
 	},
 	"config": {
 		"preferred-install": "dist"

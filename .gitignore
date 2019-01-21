@@ -1,7 +1,8 @@
 /bootstrap/compiled.php
-/vendor
+#/vendor
 composer.phar
-#composer.lock
+composer.lock
+composer.json
 .env.*.php
 .env.php
 .DS_Store
